@@ -12,7 +12,7 @@ version = "0.2-1"
 
 -- General metadata:
 
-local url = "github.com/asmagill/mjolnir_asm.ipc/eventtap"
+local url = "github.com/asmagill/mjolnir_asm.ipc"
 local desc = "For tapping into input events (mouse, keyboard, trackpad) for observation and possibly overriding them. This module requires mjolnir_asm.eventtap.event."
 
 source = {url = "git://" .. url, dir = "mjolnir_asm.ipc/eventtap"}
